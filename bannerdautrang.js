@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://giayson.blogspot.com' target='_blank'><img src='https://3.bp.blogspot.com/-c3WWvMjLawk/Wwaz1ufaDZI/AAAAAAAAABY/dgRXYKvawkoxE7ujSKC8GQZLCbgo8QhUgCLcBGAs/s1600/hinh-giay-son.jpg' width='500px'/><br/>Cửa hàng giày Nam </a>. Liên hệ hotline 0908488733 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://giayson.blogspot.com' target='_blank'><img src='https://2.bp.blogspot.com/-ZcQNfSILj4A/WwZRrGWWCBI/AAAAAAAAAA8/PqBllTfr9I0tZLe3jtQEoleLJJPAFUDXwCEwYBhgL/s400/123.jpg' width='500px'/><br/>Cửa hàng giày Nam </a>. Liên hệ hotline 0908488733 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
